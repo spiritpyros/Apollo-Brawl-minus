@@ -1,0 +1,405 @@
+PROJECT M BOOT MENU 
+menu_music -
+
+BATTLEFIELD 
+X04 - Legacy Forever - Battlefield Theme [credit: Yuang Chen, Takumi Nishimura, © 2015 Seycara Music And Arts]
+T02 - Multi-Man Melee 2 (Melee)
+X25 - Boss Battle Song 1 (Brawl)
+W21 - Battlefield (Melee)
+W23 - Battlefield M [by Mika_music]
+
+FINAL DESTINATION
+X05 - The End - Final Destination Theme [credit: Yuang Chen, Takumi Nishimura, © 2015 Seycara Music And Arts]
+T01 - Pixels of Glory [by FrenchDips inspired by Tobbeh99]
+T03 - Final Destination M [by Mika_music]
+W25 - 
+W31 - S-Tier [by Flexstyle, OA]
+
+DELFINO PLAZA / DELFINO'S SECRET
+A13 - Delfino's Secret [by Garrett Williamson]
+A07 - 
+A08 - Super Bell Hill (Super Mario 3D World)
+A14 -
+A15 - Super Mario Bros. 3 (Melee)
+
+LUIGI'S MANSION
+A09 - 
+A06 - Bros Before Ghosts (Harmony of Heroes)
+A05 - 
+Q10 - 
+Q11 - Treacherous Mansion (Luigi's Mansion: Dark Moon)
+
+MUSHROOMY KINGDOM 1-1 / METAL CAVERN
+A01 - Metal Cavern Ver. M [by denimence, Riddlrr]
+A16 - Ground Theme (Super Mario Bros.)
+A10 - Metal Battle (Melee)
+
+MUSHROOMY KINGDOM 1-2 / METAL CAVERN
+A02 -
+A03 - Metal Mario (Super Smash Bros.)
+A04 -
+
+MARIO CIRCUIT / BOWSER'S CASTLE
+A20 - Bowser's Castle Ver. M [by Garrett Williamson]
+A21 - Road to Bowser Ver. M [by denimence]
+A22 - Bowser's Rage (Paper Mario)
+A23 - Bowser's Castle (Mario Kart 8)
+R05 - Ultimate Koopa - Remastered (Super Mario 64)
+R14 - Hisstocrat (Super Mario 3D World)
+Q09 - Bowser's Highway Showdown (Super Mario 3D World)
+
+RUMBLE FALLS 
+B01 - 
+B08 - 
+B05 - 
+B06 - 
+B07 - 
+B10 - 
+B02 - DK Isle (Donkey Kong 64)
+
+BRIDGE OF ELDIN / HYRULE CASTLE
+C02 - Hyrule Field: 1st (Hyrule Warriors)
+C09 - 
+C01 - 
+C04 - Lorule Field (The Legend of Zelda: A Link Between Worlds)
+C05 - 
+C08 - 
+C17 - 
+C18 - Hyrule Castle (Super Smash Bros.)
+C19 - Saria's Theme (Melee)
+
+PIRATE SHIP 
+C15 - 
+C16 - 
+C07 -
+C10 - 
+C11 - 
+C12 - Great Bay (Melee)
+C14 - 
+
+NORFAIR
+D01 - 
+D03 - 
+D02 - Magmoor Caverns (Metroid Prime)
+D05 - 
+R12 - Vs. Chykka: Adult (Metroid Prime 2)
+R07 - Vs. Ridley (Other M)
+
+FRIGATE ORPHEON 
+D04 - 
+D08 - 
+D07 - 
+D06 - 
+D09 - 
+D10 - 
+
+YOSHI'S ISLAND (BRAWL) 
+E02 -
+E07 - 
+E01 - 
+E03 - 
+E05 - Yoshi's Island (Melee)
+E06 -
+
+HALBERD 
+F06 - 
+F01 - 
+F05 - 
+F04 - 
+F02 - 
+F12 - City Trial (Kirby Air Ride)
+F07 - 
+F08 - 
+F03 -
+F10 -
+F09 - 
+F11 - 
+
+LYLAT CRUISE
+G10 - 
+G02 - 
+G01 - Katina (Star Fox: Assault)
+G03 - 
+G04 - 
+G11 -
+G05 - 
+G09 - 
+G07 - 
+G08 - 
+Q12 - Aparoid City (Star Fox: Assault)
+
+POKEMON STADIUM / POKEMON STADIUM 2
+H01 - Battle! Rival (Pokémon Omega Ruby / Alpha Sapphire) 
+H03 - Battle! Team Aqua / Team Magma (Pokémon Omega Ruby / Alpha Sapphire) 
+H04 - Final Battle! Rival (Pokémon Origins)
+H02 - Pokémon Stadium (Melee)
+H05 - Battle Theme (Melee)
+
+SPEAR PILLAR 
+H06 - 
+H08 - 
+H07 - 
+H09 - 
+H10 - Mewtwo Battle Theme Remix for Project M [by Mark "Blaz" Soto]
+
+PORT TOWN: AERO DIVE 
+I01 - 
+I03 - 
+I02 - 
+I04 - 
+I05 - 
+I06 - 
+I07 - 
+I08 - 
+I09 - 
+I10 - 
+R09 - The Long Distance of Murder
+W18 -
+
+CASTLE SIEGE
+J02 - 
+J04 - 
+J08 - 
+J06 - Destiny - Ablaze (Fire Emblem: Awakening)
+J07 - 
+J03 - Conquest - Ablaze (Fire Emblem: Awakening)
+J13 - 
+J09 - 
+J10 - Mastermind - Walhart / Gangrel Theme (Fire Emblem: Awakening)
+J11 - 
+J12 - 
+W17 - 
+
+WARIOWARE, INC. / WARIO LAND
+M01 - Bad Mario [by Phonetic Hero]
+M02 - 
+M08 - 
+M07 - Body Rock (WarioWare D.I.Y.) [Remastered instrumental by SirBaki]
+M06 - 
+M05 - Greenhorn Forest (Wario World)
+M04 - 
+M03 - Glittertown (Wario Land: Shake It!)
+M09 - 
+M10 - 
+M11 - 
+M12 - 
+M13 - 
+M15 - 
+M16 - 
+M17 - 
+M18 - 
+
+DISTANT PLANET
+L06 - 
+L01 - 
+L07 - 
+L04 - 
+L08 - Awakening Wood (Pikmin 2)
+L05 - 
+L03 - The Final Trial (Pikmin)
+R08 - Waiting for Sunrise (Harmony of Heroes)
+
+SMASHVILLE
+N01 - 
+N02 - K.K. Crusin' [by Ben Briggs]
+N03 - Me and the Kapp'n Make it Happ'n (Harmony of Heroes)
+N06 - Kicks' Twilite Funk (2:00 a.m.) [by F.I.A.B.]
+N05 - Title (Animal Crossing) Ver. M [by WillRock]
+N07 - 
+N08 - 
+N09 - 
+N10 - 
+N11 - 
+N12 - Bowser's Victory
+
+NEW PORK CITY / FOURSIDE
+K07 - Fourside (Melee)
+K09 - 
+K08 - 
+K10 - 
+K05 - 
+K01 - 
+
+SUMMIT / INFINITE GLACIER
+Q07 - 
+Q06 - 
+Q08 - Always Smiling (Dance Dance Revolution Mario Mix)
+Q05 - 
+W13 - Icicle Mountain (Melee)
+
+SKYWORLD
+P01 - The Return of Palutena (Kid Icarus: Uprising)
+P03 - The Wish Seed (Kid Icarus: Uprising)
+P02 - Dark Pit's Theme (Kid Icarus: Uprising)
+P04 - In the Space-Pirate Ship (Kid Icarus: Uprising)
+
+75M / KONGO JUNGLE
+B04 - Secret Temple 1 / DK Island Swing (Donkey Kong Country: Tropical Freeze)
+B03 - 
+B09 - Kongo Jungle (Super Smash Bros.)
+
+MARIO BROS / FOUNTAIN OF DREAMS
+A17 - Fountain of Dreams (Melee)
+Q02 - Another Dimension (Kirby's Return to Dream Land)
+Q01 - Moonstruck Blossom / Queen Sectonia 2 (Kirby Triple Deluxe)
+Q13 - Masked Dedede (Kirby Triple Deluxe)
+Q14 - Magma Flows (Kirby Air Ride)
+
+FLAT ZONE 2 
+R04 - 
+Q04 - 
+W14 - 
+
+PICTOCHAT 
+R02 - 
+R10 - Title Screen (Super Mario Maker)
+R11 - Wii Shop Channel Remix (Nicky Flowers)
+R15 - Duck Hunt Groove (Harmony of Heroes)
+R16 - Gyromite Ver. M [by denimence]
+R17 - Map - Day (Tomodachi Life)
+R13 - Punch-Out Theme Ver. M [by Garrett Williamson]
+R06 -
+W20 - 
+
+HANENBOW 
+R03 - Hanenbow Ver. M [by Garrett Williamson, Adam Kirby, Audio Selah]
+
+SHADOW MOSES ISLAND 
+S06 - 
+S02 - Metal Gear Saga (Metal Gear Solid 4)
+S03 - 
+S08 - 
+S04 - 
+S07 - Intro (Metal Gear Solid 2)
+S05 - Snake Eater (Full Version)
+S10 - 
+S11 - 
+
+GREEN HILL ZONE
+U01 - Green Hill Zone - Modern (Sonic Generations)
+U04 - Seaside Hill (Sonic Heroes)
+U02 - City Escape (Sonic Adventure 2)
+U03 - 
+U06 - Metallic Madness Zone - Act 2 (Sonic Mania)
+U07 - 
+U08 -
+U09 - 
+U10 - 
+U11 - I Am (Shadow the Hedgehog)
+U12 - Metal Harbor (Sonic Adventure 2)
+U13 - Sky Sanctuary Zone - Modern (Sonic Generations)
+
+TEMPLE 
+C03 - Temple (Melee)
+W24 - Ballad of the Goddesses (The Legend of Zelda: Skyward Sword)
+
+YOSHI'S ISLAND (MELEE) / YOSHI'S STORY
+W05 - Yoshi's Island (Super Smash Bros.)
+W15 - Yoshi's Story (Melee)
+
+JUNGLE JAPES
+W03 - 
+W26 - 
+
+ONETT 
+W12 - 
+W19 - 
+
+CORNERIA
+W08 - 
+W28 - 
+
+RAINBOW CRUISE / PEACH'S CASTLE
+W02 - 
+W01 - Peach's Castle (Super Smash Bros.)
+
+GREEN GREENS / DREAMLAND
+W07 - Dreamland (Super Smash Bros.)
+W06 - Green Greens (Melee)
+
+BIG BLUE 
+W11 - 
+W29 - 
+
+BRINSTAR 
+W27 - 
+W04 - 
+
+POKEMON STADIUM / SAFFRON CITY
+W09 - Battle! Zinnia (Pokémon Omega Ruby / Alpha Sapphire) 
+W16 - Saffron City (Super Smash Bros.)
+W10 - 
+
+MENU 
+X02 - Menu (Smash Bros. Legacy) [credit: Yuang Chen, Takumi Nishimura, © 2015 Seycara Music And Arts]
+X03 - Menu (Project M)
+W30 - 
+X01 - Project M Main Theme Remix (NyxTheShield)
+
+SUBSPACE EMISSARY / SONG CYCLER MENU MUSIC
+Y01 - X-Naut Fortress (Paper Mario and the Thousand Year Door) [Netplay Only]
+Y02 - NYNJ - Online Menu [Netplay Only]
+Y03 - In Evolution - Instrumental (Yungtown) [Netplay Only]
+Y04 - Smash Superstars - Trophy Tussle (Harmony of Heroes) [Netplay Only]
+Y09 - 
+Y10 - 
+Y11 - 
+Y13 - 
+Y14 - 
+Y15 - 
+Y05 - Maro Malt (Malo Mart J-House Remix) - Garrett Williamson [Netplay Only]
+Y07 - Feint (Homebound) [Netplay Only]
+Y08 - Hi There! (Lobby) - Diddy Kong Racing- Bootleg Circuit - Ben Briggs [Netplay Only]
+Y16 - 
+Y17 - 
+
+VICTORY THEMES
+Z01 - 
+Z02 - 
+Z03 - 
+Z04 - 
+Z05 - 
+Z06 - 
+Z07 - 
+Z08 - 
+Z10 - 
+Z11 - 
+Z16 - 
+Z17 - 
+Z18 - 
+Z21 - 
+Z22 - 
+Z23 - 
+Z25 - 
+Z35 - 
+Z46 - 
+Z47 - 
+
+OTHER
+X07 - Settle It In Smash (Instrumental Version) [by Garrett Williamson]
+X08 - Chillin' With the Bros. (Results Display)
+X09 - 
+X10 - 
+X11 - 
+X13 - 
+X15 - 
+X16 - 
+X17 - 
+X18 - 
+X19 - 
+X20 - 
+X21 - 
+X23 - 
+X26 - Target Blitz (Harmony of Heroes)
+X27 - Project M Forever [credit: Yuang Chen, Takumi Nishimura, © 2015 Seycara Music And Arts]
+T05 - 
+X22 - MVP [credit: Yuang Chen, Takumi Nishimura, Seycara Music And Arts]
+X06 - 
+X24 - 
+Z50 - Round Win [credit: Yuang Chen, Takumi Nishimura, Seycara Music And Arts]
+Z51 - Death Camera! [credit: Yuang Chen, Takumi Nishimura, Seycara Music And Arts]
+Z54 - 
+Z55 - 
+Z56 - 
+Z57 - 
+Z58 - 

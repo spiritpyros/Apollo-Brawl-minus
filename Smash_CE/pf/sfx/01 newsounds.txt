@@ -1,0 +1,9 @@
+smash4cloud 18,1a5 
+cloud 12,193
+knuckles 145,19d
+marisa 19,1c4
+saber 02,194
+shulk  189,154
+lucina 13f,1ac
+war ganon 16,192
+

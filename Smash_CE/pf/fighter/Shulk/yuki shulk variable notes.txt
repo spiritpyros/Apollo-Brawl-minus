@@ -1,0 +1,10 @@
+y  /z
+
+923/73: speed
+924/74: shield
+921/72: jump
+926/76: buster
+925/75: smash
+
+
+

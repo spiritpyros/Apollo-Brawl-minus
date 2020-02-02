@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>REDACTED</jar>
+  <outfile>REDACTED</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>REDACTED</icon>
+  <singleInstance>
+    <mutexName>Super Smash Bros. CE Boot Menu</mutexName>
+    <windowTitle>Super Smash Bros. CE Boot Menu</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion>1.9.0</maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>0.1.0.0</fileVersion>
+    <txtFileVersion>v1.0</txtFileVersion>
+    <fileDescription>Boot Menu/Auto Updater for Smash Bro. CE</fileDescription>
+    <copyright>The Smash Bros. CE Team</copyright>
+    <productVersion>0.1.0.0</productVersion>
+    <txtProductVersion>v1.0</txtProductVersion>
+    <productName>Super Smash Bros. CE Boot Menu</productName>
+    <companyName></companyName>
+    <internalName>CE Boot Menu</internalName>
+    <originalFilename>Super Smash Bros. CE Boot Menu.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+  <messages>
+    <startupErr>An error occurred while starting the application. Contact @Support in the CE Discord if you need more assistance.</startupErr>
+    <bundledJreErr>This application was configured to use a bundled Java Runtime Environment but the runtime is missing or corrupted. Please double check you didn&apos;t modify the files here in any way. If you need more help, ping @Support in the CE Discord.</bundledJreErr>
+    <jreVersionErr>This application requires a Java Runtime Environment</jreVersionErr>
+    <launcherErr>The registry refers to a nonexistent Java Runtime Environment installation or the runtime is corrupted.</launcherErr>
+    <instanceAlreadyExistsMsg>An application instance is already running. You silly goose.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>

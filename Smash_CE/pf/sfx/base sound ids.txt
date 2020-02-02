@@ -1,0 +1,87 @@
+01 - Mario
+02 - Link
+03 - Pit
+04 - Meta Knight
+05 - Dedede
+06 - Donkey Kong
+07 - Samus
+08 - Yoshi
+09 - Kirby
+0A - Fox
+0B - Pikachu
+0C - Luigi
+0D - Captain
+0E - Ness
+0F - Koopa
+10 - Peach
+11 - Zelda
+12 - Ice Climbers
+13 - Marth
+14 - GameWatch
+15 - Falco
+16 - Ganon
+17 - Wario
+18 - Pikmin
+19 - Lucas
+1A - Diddy
+1B - PokeTrainer
+1C - PokeLizardon
+1D - PokeZenigame
+1E - PokeFushigisou
+1F - Lucario
+20 - Ike
+21 - R.O.B.
+22 - Purin
+23 - ToonLink
+24 - Wolf
+25 - Snake
+26 - Sonic
+27 - select
+28 - ZakoFighter
+
+116 Kuribo
+117 Patapata
+118 Hammerbros
+119 Killer
+11A Dekakuribo
+11B GalFire
+11C Poppercam
+11D Bitan
+11E Roada
+11F Bombhead
+120 Gyraan
+121 Bucyulus
+122 Tautau
+123 Flows
+124 Aroaros
+125 Botron
+126 Jyakeel
+127 Ghamgha
+128 Pacci
+129 Faulong
+12A Deathpod
+12B Spar
+12C Kokkon
+12D Jdus
+12E Mite
+12F Shelly
+130 Ngagog
+131 Cymal
+132 Teckin
+133 Cataguard
+134 Siralamos
+135 Boobas
+136 Arman
+137 Prim
+138 Robo
+139 - Bosspackun (or as I like to call, Bosspack-kun)
+13A - Rayquaza
+13B - Porky
+13C - Galleom
+13D - Ridley
+13E - Duon
+13F - Meta Ridley
+140 - Taboo
+141 - Master Hand
+142 - Crazy Hand
+143 Falconflyer
